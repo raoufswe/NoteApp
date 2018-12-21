@@ -19,4 +19,4 @@ It was developed using Javascript and supports the following functions:
 
 Check out the website using the following link:
 
-note-app-rs.netlify.com
+https://note-app-rs.netlify.com/
