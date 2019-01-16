@@ -17,6 +17,3 @@ It was developed using Javascript and supports the following functions:
 
 6- The application uses Moment.js to parse, validate, manipulate, and display dates and times.
 
-Check out the website using the following link:
-
-https://note-app-rs.netlify.com/
